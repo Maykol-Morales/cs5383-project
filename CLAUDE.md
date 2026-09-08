@@ -26,8 +26,10 @@ Ver [`docs/02-division-tareas.md`](docs/02-division-tareas.md). Resumen: split p
 
 ## Estado del repo
 
-- Repo GitHub: `ps-project` (pendiente de crear/confirmar).
-- Gestión de tareas: se planea usar un GitHub Project dentro del repo.
+- Repo GitHub: https://github.com/JustMaykol/ps-project (privado). `urbisin` invitado como colaborador (invitación pendiente de aceptar).
+- Gestión de tareas: GitHub Project "Proyecto 1 - Caso 2 Advantage Online Shopping" — https://github.com/users/JustMaykol/projects/1
+  - 18 issues creados a partir de `docs/02-division-tareas.md`, etiquetados `persona-a`, `persona-b` o `conjunto`, todos en estado "Todo" y sin asignar a persona específica (los roles A/B aún no están confirmados entre Maykol y urbisin).
+  - Cuando se defina quién es Persona A / Persona B, asignar los issues correspondientes en GitHub y actualizar `docs/02-division-tareas.md` con los nombres reales.
 
 ## Cómo colaborar aquí
 
