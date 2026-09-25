@@ -23,6 +23,7 @@ Advantage está a semanas de su campaña de temporada alta y le preocupa que err
 
 | Archivo | Descripción |
 |---|---|
+| [`Proyecto1_Enunciado.pdf`](Proyecto1_Enunciado.pdf) | Enunciado original del profesor |
 | [`docs/01-proyecto1-explicacion.md`](docs/01-proyecto1-explicacion.md) | Qué pide el Proyecto 1: contexto de negocio, requisitos y estructura del entregable |
 | [`docs/02-division-tareas.md`](docs/02-division-tareas.md) | División del trabajo entre los integrantes y orden sugerido |
 | [`CLAUDE.md`](CLAUDE.md) | Contexto del proyecto para asistentes de código |
